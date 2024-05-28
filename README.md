@@ -1,6 +1,6 @@
 ### Olá, me chamo Andrei Ribeiro
 
-- 🌱 Venho aprendendo front-end com foco em React e Python com foco em automação
+- 🌱 Venho aprendendo front-end e Python com foco em automação
 - 😄 Pronomes: Ele/Dele
   #
   
